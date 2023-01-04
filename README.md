@@ -1,5 +1,5 @@
 <h1 align="center">Olá, eu sou o Julio Gabriel</h1>
-<h3 align="center">Um Desenvolvedor full-stack apaixonado por tecnologia.</h3>
+<h3 align="center">Um Desenvolvedor full-stack apaixonado por tecnologia</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=juliog516&label=Profile%20views&color=0e75b6&style=flat" alt="juliog516" /> </p>
 
@@ -34,6 +34,9 @@
 <h3 align="left">Ferramentas: </h3>
  <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> 
  
+<h3 align="left">IDEs: </h3>
+<a href="https://www.jetbrains.com/idea/" target="_blank" rel="noreferrer"> <img src="https://vectorwiki.com/images/ZgSyR__intellij-idea.svg" alt="IntellijIDEA" width="40" height="40"/> </a> <a href="https://visualstudio.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://vectorwiki.com/images/id-278-visual-studio-icon-2022.svg" alt="VisualStudio" width="40" height="40"/> </a> <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"> <img src="https://vectorwiki.com/images/ShoGZ__visual-studio-code.svg" alt="vscode" width="40" height="40"/> </a> 
+
 
  </p>
 
