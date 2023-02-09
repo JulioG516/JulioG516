@@ -1,5 +1,5 @@
 <h1 align="center">Olá, eu sou o Julio Gabriel</h1>
-<h3 align="center">Um Desenvolvedor full-stack apaixonado por tecnologia</h3>
+<h3 align="center">Um Desenvolvedor back-end apaixonado por tecnologia</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=juliog516&label=Profile%20views&color=0e75b6&style=flat" alt="juliog516" /> </p>
 
