@@ -1,11 +1,11 @@
 <h1 align="center">Olá, eu sou o Julio Gabriel</h1>
 <h3 align="center">Um Desenvolvedor back-end apaixonado por tecnologia</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=juliog516&label=Profile%20views&color=0e75b6&style=flat" alt="juliog516" /> </p>
+<!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=juliog516&label=Profile%20views&color=0e75b6&style=flat" alt="juliog516" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=juliog516" alt="juliog516" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=juliog516" alt="juliog516" /></a> </p> -->
 
-- 👨‍💻 Todos os meus projetos estão disponíveis em [https://juliog516.github.io/](https://juliog516.github.io/)
+- 👨‍💻 Acesse meu portfolio em  [https://juliog516.github.io/](https://juliog516.github.io/)
 
 <h3 align="left">Conecte-se comigo:</h3>
 <p align="left">
