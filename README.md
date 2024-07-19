@@ -51,7 +51,7 @@ alt="javascript" width="40" height="40" /> </a>
         width="40" height="40" />
 </a>
 <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dotnetcore/dotnetcore-plain.svg" alt=".net"
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dotnetcore/dotnetcore-original.svg" alt=".net"
         width="40" height="40" />
 </a>
 <a href="https://www.java.com" target="_blank" rel="noreferrer">
