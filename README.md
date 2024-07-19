@@ -16,20 +16,12 @@
 <h3 align="left">Linguagens Front-end</h3>
 <p align="left">
 
-    <a href="https://angular.dev/" target="_blank" rel="noreferrer"><img
-        src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/angular/angular-original.svg" alt="angular"
-        width="40" height="40" /></a>
-
-
-
-        <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"><img
-            src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg"
-            alt="angular" width="40" height="40" /></a>
 
     <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img
             src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg"
-            alt="react" width="40" height="40" /> </a> <a href="https://getbootstrap.com" target="_blank"
-        rel="noreferrer"> <img
+            alt="react" width="40" height="40" />
+    </a>
+    <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img
             src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg"
             alt="bootstrap" width="40" height="40" /> </a><a href="https://www.w3schools.com/css/" target="_blank"
         rel="noreferrer"> <img
