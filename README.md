@@ -17,27 +17,22 @@
 <p align="left">
 
     <a href="https://angular.dev/" target="_blank" rel="noreferrer"><img
-            src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/angular/angular-original.svg" alt="angular"
-            width="40" height="40" /></a>
-
-    <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg"
-            alt="react" width="40" height="40" />
+        src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/angular/angular-original.svg" alt="angular"
+        width="40" height="40" /></a>
 
 
 
-    </a>
-
-    <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"><img
+        <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"><img
             src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg"
             alt="angular" width="40" height="40" /></a>
 
-
-    <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img
+    <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img
+            src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg"
+            alt="react" width="40" height="40" /> </a> <a href="https://getbootstrap.com" target="_blank"
+        rel="noreferrer"> <img
             src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg"
-            alt="bootstrap" width="40" height="40" />
-    </a>
-    <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img
+            alt="bootstrap" width="40" height="40" /> </a><a href="https://www.w3schools.com/css/" target="_blank"
+        rel="noreferrer"> <img
             src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg"
             alt="css3" width="40" height="40" /> </a> <a href="https://www.w3.org/html/" target="_blank"
         rel="noreferrer"> <img
@@ -50,15 +45,21 @@
 
 
 
+
+    </a>
+
+
+
+
 <h3 align="left">Linguagens Back-end: </h3>
 
 <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img
-    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp"
-    width="40" height="40" />
+        src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp"
+        width="40" height="40" />
 </a>
 <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dotnetcore/dotnetcore-plain.svg" 
-    alt=".net" width="40" height="40" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dotnetcore/dotnetcore-plain.svg" alt=".net"
+        width="40" height="40" />
 </a>
 <a href="https://www.java.com" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java"
@@ -85,8 +86,8 @@
 <h3 align="left">Banco de dados: </h3>
 <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img
         src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg"
-        alt="postgresql" width="40" height="40" /> </a><a href="https://www.mysql.com/" target="_blank"
-    rel="noreferrer"> <img
+        alt="postgresql" width="40" height="40" /> </a>
+<a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img
         src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg"
         alt="mysql" width="40" height="40" /> </a>
 
