@@ -4,7 +4,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=juliog516" alt="juliog516" /></a> </p> -->
 
-- 👨‍💻 Acesse meu portfolio em [https://juliog516.github.io/](https://juliog516.github.io/)
+- 👨‍💻 Acesse meu portfolio em [https://juliogabriel.net](https://juliogabriel.net/)
 
 <h3 align="left">Conecte-se comigo:</h3>
 <p align="left">
