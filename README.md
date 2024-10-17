@@ -108,6 +108,6 @@ alt="javascript" width="40" height="40" /> </a>
 
 </p>
 
-<p>&nbsp;<img align="center"
+<!--  <p>&nbsp;<img align="center"
         src="https://github-readme-stats.vercel.app/api?username=juliog516&show_icons=true&locale=en" alt="juliog516" />
-</p>
+</p> -->
